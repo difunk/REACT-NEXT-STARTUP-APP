@@ -4,12 +4,12 @@ import { STARTUPS_QUERY } from "@/sanity/lib/queries";
 import { sanityFetch, SanityLive } from "@/sanity/lib/live";
 
 
-
 export default async function Home({ searchParams } : {
   searchParams: Promise<{query?: string}>
 }) {
   const query = (await searchParams).query;
-  const { data: posts} = await sanityFetch( {query: STARTUPS_QUERY});
+  const params = { search: query || null }
+  const { data: posts} = await sanityFetch( {query: STARTUPS_QUERY, params});
 
   return (
     <>
@@ -40,7 +40,7 @@ export default async function Home({ searchParams } : {
           )}
       </ul>
     </section>
-    
+
     <SanityLive />
     </>
   );
