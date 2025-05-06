@@ -55,13 +55,13 @@ The project is designed to practice building scalable, full-stack applications w
 Create a .env.local file in the root directory and add the following variables:
 
 ```sh
-NEXT_PUBLIC_SANITY_PROJECT_ID=your_sanity_project_id  
-NEXT_PUBLIC_SANITY_DATASET=your_sanity_dataset  
-NEXTAUTH_SECRET=your_nextauth_secret  
-NEXTAUTH_URL=http://localhost:3000  
-GITHUB_ID=your_github_client_id  
-GITHUB_SECRET=your_github_client_secret  
-SENTRY_DSN=your_sentry_dsn
+AUTH_SECRET=your_auth_secret
+AUTH_GITHUB_ID=your_github_client_id
+AUTH_GITHUB_SECRET=your_github_client_secret
+NEXT_PUBLIC_SANITY_PROJECT_ID=your_sanity_project_id
+NEXT_PUBLIC_SANITY_DATASET=your_sanity_dataset
+NEXT_PUBLIC_SANITY_API_VERSION=your_sanity_api_version
+SANITY_WRITE_TOKEN=your_sanity_write_token
 ```
 
 ### Launch Project
