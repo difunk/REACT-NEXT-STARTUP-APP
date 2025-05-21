@@ -1,26 +1,11 @@
 
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  </a>
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  </a>
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  </a>
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  </a>
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/Sanity-F03E2F?style=for-the-badge&logo=sanity&logoColor=white" />
-  </a>
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/Zod-000000?style=for-the-badge&logo=zod&logoColor=3068B7" />
-  </a>
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/Sentry-black?style=for-the-badge&logo=Sentry&logoColor=#362D59" />
-  </a>
-
+  <a href="#" target="_blank"><img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" /></a>
+  <a href="#" target="_blank"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /></a>
+  <a href="#" target="_blank"><img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" /></a>
+  <a href="#" target="_blank"><img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" /></a>
+  <a href="#" target="_blank"><img src="https://img.shields.io/badge/Sanity-F03E2F?style=for-the-badge&logo=sanity&logoColor=white" /></a>
+  <a href="#" target="_blank"><img src="https://img.shields.io/badge/Zod-000000?style=for-the-badge&logo=zod&logoColor=3068B7" /></a>
+  <a href="#" target="_blank"><img src="https://img.shields.io/badge/Sentry-black?style=for-the-badge&logo=Sentry&logoColor=#362D59" /></a>
 
 ## About This Project  
 This project is a startup idea submission platform built with Next.js, Sanity, and Tailwind CSS. It allows users to submit, browse, and manage startup ideas while exploring modern web development concepts like server actions, dynamic routing, and API integration.  
